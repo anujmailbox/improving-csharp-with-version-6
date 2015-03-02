@@ -1,0 +1,6 @@
+c:\users\jeremy mcpeak\documents\visual studio 2015\Projects\ExpressionBodiedMethodsAndProps\ExpressionBodiedMethodsAndProps\bin\Debug\ExpressionBodiedMethodsAndProps.exe.config
+c:\users\jeremy mcpeak\documents\visual studio 2015\Projects\ExpressionBodiedMethodsAndProps\ExpressionBodiedMethodsAndProps\bin\Debug\ExpressionBodiedMethodsAndProps.exe
+c:\users\jeremy mcpeak\documents\visual studio 2015\Projects\ExpressionBodiedMethodsAndProps\ExpressionBodiedMethodsAndProps\bin\Debug\ExpressionBodiedMethodsAndProps.pdb
+c:\users\jeremy mcpeak\documents\visual studio 2015\Projects\ExpressionBodiedMethodsAndProps\ExpressionBodiedMethodsAndProps\obj\Debug\ExpressionBodiedMethodsAndProps.csprojResolveAssemblyReference.cache
+c:\users\jeremy mcpeak\documents\visual studio 2015\Projects\ExpressionBodiedMethodsAndProps\ExpressionBodiedMethodsAndProps\obj\Debug\ExpressionBodiedMethodsAndProps.exe
+c:\users\jeremy mcpeak\documents\visual studio 2015\Projects\ExpressionBodiedMethodsAndProps\ExpressionBodiedMethodsAndProps\obj\Debug\ExpressionBodiedMethodsAndProps.pdb

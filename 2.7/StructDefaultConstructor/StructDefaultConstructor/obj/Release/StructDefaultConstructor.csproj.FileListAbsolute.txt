@@ -1,0 +1,5 @@
+c:\users\jeremy mcpeak\documents\visual studio 2015\Projects\StructDefaultConstructor\StructDefaultConstructor\bin\Release\StructDefaultConstructor.exe.config
+c:\users\jeremy mcpeak\documents\visual studio 2015\Projects\StructDefaultConstructor\StructDefaultConstructor\bin\Release\StructDefaultConstructor.exe
+c:\users\jeremy mcpeak\documents\visual studio 2015\Projects\StructDefaultConstructor\StructDefaultConstructor\bin\Release\StructDefaultConstructor.pdb
+c:\users\jeremy mcpeak\documents\visual studio 2015\Projects\StructDefaultConstructor\StructDefaultConstructor\obj\Release\StructDefaultConstructor.exe
+c:\users\jeremy mcpeak\documents\visual studio 2015\Projects\StructDefaultConstructor\StructDefaultConstructor\obj\Release\StructDefaultConstructor.pdb

@@ -1,0 +1,6 @@
+c:\users\jeremy mcpeak\documents\visual studio 2015\Projects\ExceptionFiltering\ExceptionFiltering\bin\Debug\ExceptionFiltering.exe.config
+c:\users\jeremy mcpeak\documents\visual studio 2015\Projects\ExceptionFiltering\ExceptionFiltering\bin\Debug\ExceptionFiltering.exe
+c:\users\jeremy mcpeak\documents\visual studio 2015\Projects\ExceptionFiltering\ExceptionFiltering\bin\Debug\ExceptionFiltering.pdb
+c:\users\jeremy mcpeak\documents\visual studio 2015\Projects\ExceptionFiltering\ExceptionFiltering\obj\Debug\ExceptionFiltering.csprojResolveAssemblyReference.cache
+c:\users\jeremy mcpeak\documents\visual studio 2015\Projects\ExceptionFiltering\ExceptionFiltering\obj\Debug\ExceptionFiltering.exe
+c:\users\jeremy mcpeak\documents\visual studio 2015\Projects\ExceptionFiltering\ExceptionFiltering\obj\Debug\ExceptionFiltering.pdb

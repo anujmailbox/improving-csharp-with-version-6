@@ -1,0 +1,6 @@
+c:\users\jeremy mcpeak\documents\visual studio 2015\Projects\StructDefaultConstructor\StructDefaultConstructor\bin\Debug\StructDefaultConstructor.exe.config
+c:\users\jeremy mcpeak\documents\visual studio 2015\Projects\StructDefaultConstructor\StructDefaultConstructor\bin\Debug\StructDefaultConstructor.exe
+c:\users\jeremy mcpeak\documents\visual studio 2015\Projects\StructDefaultConstructor\StructDefaultConstructor\bin\Debug\StructDefaultConstructor.pdb
+c:\users\jeremy mcpeak\documents\visual studio 2015\Projects\StructDefaultConstructor\StructDefaultConstructor\obj\Debug\StructDefaultConstructor.csprojResolveAssemblyReference.cache
+c:\users\jeremy mcpeak\documents\visual studio 2015\Projects\StructDefaultConstructor\StructDefaultConstructor\obj\Debug\StructDefaultConstructor.exe
+c:\users\jeremy mcpeak\documents\visual studio 2015\Projects\StructDefaultConstructor\StructDefaultConstructor\obj\Debug\StructDefaultConstructor.pdb

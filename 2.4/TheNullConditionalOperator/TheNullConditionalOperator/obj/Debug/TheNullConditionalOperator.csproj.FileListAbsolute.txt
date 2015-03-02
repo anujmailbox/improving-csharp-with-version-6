@@ -1,0 +1,5 @@
+c:\users\jeremy mcpeak\documents\visual studio 2015\Projects\TheNullConditionalOperator\TheNullConditionalOperator\bin\Debug\TheNullConditionalOperator.pdb
+C:\Users\Jeremy McPeak\Documents\Visual Studio 2015\Projects\TheNullConditionalOperator\TheNullConditionalOperator\bin\Debug\TheNullConditionalOperator.exe.config
+C:\Users\Jeremy McPeak\Documents\Visual Studio 2015\Projects\TheNullConditionalOperator\TheNullConditionalOperator\bin\Debug\TheNullConditionalOperator.exe
+C:\Users\Jeremy McPeak\Documents\Visual Studio 2015\Projects\TheNullConditionalOperator\TheNullConditionalOperator\obj\Debug\TheNullConditionalOperator.exe
+C:\Users\Jeremy McPeak\Documents\Visual Studio 2015\Projects\TheNullConditionalOperator\TheNullConditionalOperator\obj\Debug\TheNullConditionalOperator.pdb

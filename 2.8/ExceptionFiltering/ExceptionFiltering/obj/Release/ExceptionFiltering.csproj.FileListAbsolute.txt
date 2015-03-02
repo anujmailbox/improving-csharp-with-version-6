@@ -1,0 +1,5 @@
+c:\users\jeremy mcpeak\documents\visual studio 2015\Projects\ExceptionFiltering\ExceptionFiltering\bin\Release\ExceptionFiltering.exe.config
+c:\users\jeremy mcpeak\documents\visual studio 2015\Projects\ExceptionFiltering\ExceptionFiltering\bin\Release\ExceptionFiltering.exe
+c:\users\jeremy mcpeak\documents\visual studio 2015\Projects\ExceptionFiltering\ExceptionFiltering\bin\Release\ExceptionFiltering.pdb
+c:\users\jeremy mcpeak\documents\visual studio 2015\Projects\ExceptionFiltering\ExceptionFiltering\obj\Release\ExceptionFiltering.exe
+c:\users\jeremy mcpeak\documents\visual studio 2015\Projects\ExceptionFiltering\ExceptionFiltering\obj\Release\ExceptionFiltering.pdb

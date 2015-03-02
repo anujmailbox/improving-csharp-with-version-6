@@ -1,0 +1,5 @@
+c:\users\jeremy mcpeak\documents\visual studio 2015\Projects\ExpressionBodiedMethodsAndProps\ExpressionBodiedMethodsAndProps\bin\Release\ExpressionBodiedMethodsAndProps.exe.config
+c:\users\jeremy mcpeak\documents\visual studio 2015\Projects\ExpressionBodiedMethodsAndProps\ExpressionBodiedMethodsAndProps\bin\Release\ExpressionBodiedMethodsAndProps.exe
+c:\users\jeremy mcpeak\documents\visual studio 2015\Projects\ExpressionBodiedMethodsAndProps\ExpressionBodiedMethodsAndProps\bin\Release\ExpressionBodiedMethodsAndProps.pdb
+c:\users\jeremy mcpeak\documents\visual studio 2015\Projects\ExpressionBodiedMethodsAndProps\ExpressionBodiedMethodsAndProps\obj\Release\ExpressionBodiedMethodsAndProps.exe
+c:\users\jeremy mcpeak\documents\visual studio 2015\Projects\ExpressionBodiedMethodsAndProps\ExpressionBodiedMethodsAndProps\obj\Release\ExpressionBodiedMethodsAndProps.pdb

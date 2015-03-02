@@ -1,0 +1,6 @@
+c:\users\jeremy mcpeak\documents\visual studio 2015\Projects\TheNameOfOperator\TheNameOfOperator\bin\Debug\TheNameOfOperator.pdb
+c:\users\jeremy mcpeak\documents\visual studio 2015\Projects\TheNameOfOperator\TheNameOfOperator\bin\Debug\TheNameOfOperator.exe.config
+c:\users\jeremy mcpeak\documents\visual studio 2015\Projects\TheNameOfOperator\TheNameOfOperator\bin\Debug\TheNameOfOperator.exe
+c:\users\jeremy mcpeak\documents\visual studio 2015\Projects\TheNameOfOperator\TheNameOfOperator\obj\Debug\TheNameOfOperator.exe
+c:\users\jeremy mcpeak\documents\visual studio 2015\Projects\TheNameOfOperator\TheNameOfOperator\obj\Debug\TheNameOfOperator.pdb
+C:\Users\Jeremy McPeak\documents\visual studio 2015\Projects\TheNameOfOperator\TheNameOfOperator\obj\Debug\TheNameOfOperator.csprojResolveAssemblyReference.cache
