@@ -11,5 +11,5 @@ These are source files for the Tuts+ course: [Improving C\# with Version 6][publ
 
 Available on [Tuts+](https://tutsplus.com). Teaching skills to millions worldwide.
 
-[published url]: https://code.tutsplus.com/courses/
+[published url]: https://code.tutsplus.com/courses/improving-c-with-version-6
 [instructor url]: https://tutsplus.com/authors/jeremy-mcpeak
